@@ -1,3 +1,3 @@
-# angular-ivy-jwt277
+# ngFor and ngIf
 
 [Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-ivy-jwt277)
